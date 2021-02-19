@@ -9,6 +9,11 @@ My name is Bruno, welcome to my self readme ;)
 
 ## Latest blog posts
 <!-- blog starts -->
+[Using more from database instead of sidekiq workers](https://brunoarueira.com/blog/using-more-from-database-instead-of-sidekiq-workers)
+[The double burger connotation on software deliverable](https://brunoarueira.com/blog/the-double-burger-connotation-on-software-deliverable)
+[Why code review is so important?](https://brunoarueira.com/blog/why-code-review-is-so-important)
+[Hello world, take 4](https://brunoarueira.com/blog/hello-world-take-4)
 <!-- blog ends -->
+
 
 More on [https://brunoarueira.com/blog](https://brunoarueira.com/blog)
