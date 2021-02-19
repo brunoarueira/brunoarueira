@@ -30,7 +30,7 @@ end
 
 latest_blog_posts = <<~REPLACE
   <!-- blog starts -->
-  #{blog_entries.join("\n")}
+  #{blog_entries.join("\n\n")}
   <!-- blog ends -->
 REPLACE
 
