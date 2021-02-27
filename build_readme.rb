@@ -36,7 +36,7 @@ REPLACE
 
 readme_content = File.read(README_FILE)
 
-readme_content.gsub!(LATEST_BLOG_POSTS_REGEX, latest_blog_posts)
+readme_content.gsub!(LATEST_BLOG_POSTS_REGEX, latest_blog_posts.strip)
 
 File.open(README_FILE, 'w') do |f|
   f.write(readme_content)

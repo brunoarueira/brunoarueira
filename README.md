@@ -18,8 +18,4 @@ My name is Bruno, welcome to my self readme ;)
 [Hello world, take 4](https://brunoarueira.com/blog/hello-world-take-4)
 <!-- blog ends -->
 
-
-
-
-
 More on [https://brunoarueira.com/blog](https://brunoarueira.com/blog)
