@@ -9,6 +9,8 @@ My name is Bruno, welcome to my self readme ;)
 
 ## Latest blog posts
 <!-- blog starts -->
+[Cleaning the dust out of here](https://brunoarueira.com/blog/cleaning-dust-out-of-here)
+
 [Using more from database instead of sidekiq workers](https://brunoarueira.com/blog/using-more-from-database-instead-of-sidekiq-workers)
 
 [The double burger connotation on software deliverable](https://brunoarueira.com/blog/the-double-burger-connotation-on-software-deliverable)
