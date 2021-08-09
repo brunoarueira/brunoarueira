@@ -9,6 +9,8 @@ My name is Bruno, welcome to my self readme ;)
 
 ## Latest blog posts
 <!-- blog starts -->
+[That day when DX started to matter to me](https://brunoarueira.com/blog/that-day-when-dx-starts-matter-to-me)
+
 [Cleaning the dust out of here](https://brunoarueira.com/blog/cleaning-dust-out-of-here)
 
 [Using more from database instead of sidekiq workers](https://brunoarueira.com/blog/using-more-from-database-instead-of-sidekiq-workers)
